@@ -1,0 +1,1 @@
+CI and GitHub Pages workflows are configured in `.github/workflows/`.
